@@ -13,4 +13,4 @@ AZGS Logos. Online!
 
 ### Vector Format
 
-[Download as .eps](http://raw.github.com/azgs/logos/blob/master/AZGS_Logo.eps)
+[Download as .eps](AZGS_Logo.eps?raw=true)
