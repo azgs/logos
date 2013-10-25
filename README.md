@@ -3,14 +3,14 @@ logos
 
 AZGS Logos. Online!
 
-### 64x64px transparent PNG
+### 64x64px PNG
 
-![64x64 AZGS Logo](AZGS_logo_64x64.png?raw=true)
+![64x64 AZGS Logo](azgs-logo-64.png?raw=true)
 
-### 800x800px JPG
+### 128x128px PNG
 
-![800x800 AZGS Logo](AZGS_logo_800x800.jpg?raw=true)
+![128x128 AZGS Logo](azgs-logo-128.png?raw=true)
 
 ### Vector Format
 
-[Download as .eps](AZGS_Logo.eps?raw=true)
+![SVG AZGS Logo](azgs-logo.svg?raw=true)
