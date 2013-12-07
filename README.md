@@ -1,5 +1,5 @@
-logos
-=====
+AZGS Logos
+==========
 
 AZGS Logos. Online!
 
